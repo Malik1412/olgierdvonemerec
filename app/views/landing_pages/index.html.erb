@@ -1,0 +1,10 @@
+
+<% @dantes.each do |upload| %>
+  <%= link_to upload do %>
+  <img src="<%= upload.image.medium %>">
+  <% end %>
+<% end %>
+ 
+<br>
+ 
+<!-- <%= link_to 'New upload', new_image_path %> -->

@@ -1,0 +1,18 @@
+development:
+  cloud_name: heartbroken
+  api_key: '183955213232525'
+  api_secret: ePAWuZcyS8Wbu2_jjBZjAhIRil0
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: heartbroken
+  api_key: '183955213232525'
+  api_secret: ePAWuZcyS8Wbu2_jjBZjAhIRil0
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: heartbroken
+  api_key: '183955213232525'
+  api_secret: ePAWuZcyS8Wbu2_jjBZjAhIRil0
+  enhance_image_tag: true
+  static_image_support: false
